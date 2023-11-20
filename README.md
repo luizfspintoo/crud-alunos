@@ -14,7 +14,7 @@ Tecnologias utilizadas:
 - HTML5
 - CSS3
 - JavaScript
-- 
+
 ## Como rodar o projeto
 
 Para rodar o projeto, siga os seguintes passos:
