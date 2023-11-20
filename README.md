@@ -21,7 +21,7 @@ Para rodar o projeto, siga os seguintes passos:
 
 ### Com o servidor local Xampp:
 - Instale o XAMPP
-- Instale o MySQL ou outro banco de dados relacional.
+- Instale o MySQL ou usar o phpMyAdmin.
 - Clone o projeto crud-alunos dentro do caminho: xampp/htdocs/
 - Após clonar, inicie o Xampp: Start em Apache
 - Você pode acessar o projeto no navegador pelo endereço http://localhost/crud-alunos
