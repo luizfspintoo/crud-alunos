@@ -1,0 +1,57 @@
+body,
+button {
+  font-family: sans-serif;
+  font-size: 16px;
+  margin-top: 4rem;
+}
+
+.container {
+  width: 500px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+.field {
+  margin-bottom: 10px;
+}
+
+label {
+  display: block;
+  font-weight: bold;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+input[type="submit"] {
+  background-color: #000;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button {
+  padding: 8px 16px;
+  background-color: black;
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin: 1rem 0;
+}
+
+a#cancel {
+  background-color: red;
+  padding: 8px 16px;
+  color: white;
+  border: none;
+  cursor: pointer;
+  text-decoration: none;
+}
