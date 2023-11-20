@@ -4,7 +4,7 @@ $username = "";
 $password = "";
 
 try {
-  $conn = new PDO("mysql:host=$servername;dbname=projetoAluno", $username, $password);
+  $conn = new PDO("mysql:host=$servername;dbname=testeluiz", $username, $password);
   $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 } catch (PDOException $e) {
   echo "Connection failed: " . $e->getMessage();
