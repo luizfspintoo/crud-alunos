@@ -1,13 +1,13 @@
 # CRUD alunos
 
-## Sobre o projeto
+## Sobre o projeto 💻
 
 Este projeto é um CRUD de alunos, desenvolvido em PHP e MySQL. Ele permite que o usuário cadastre, edite, liste e exclua alunos.
 
 ![projeto](https://github.com/luizfspintoo/crud-alunos/assets/122656846/7e8cd4ec-673c-46aa-89a3-345030bf2691)
 
 
-Tecnologias utilizadas:
+Tecnologias utilizadas: 
 - PHP
 - MySQL
 - PDO
@@ -15,7 +15,7 @@ Tecnologias utilizadas:
 - CSS3
 - JavaScript
 
-## Como rodar o projeto
+## Como rodar o projeto 🔛
 
 Para rodar o projeto, siga os seguintes passos:
 
@@ -75,5 +75,5 @@ Para editar um aluno, clique no botão "Editar" na tabela em index.php ao lado d
 
 Para excluir um aluno, clique no botão "Excluir" na tabela em index.php ao lado do campo telefone e do botão editar. Vai aparecer um alerta para a confirmação da exclusão.
 
-## Acesso ao deploy do projeto:
+## Acesso ao deploy do projeto: 🚀
 https://luizfelipe.online/
