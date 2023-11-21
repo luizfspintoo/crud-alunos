@@ -69,7 +69,7 @@ Página inicial do projeto: index.php
 
 Para cadastrar um novo aluno, clique no botão "Cadastrar". Na página de cadastro.php, insira as informações do aluno e clique no botão "Salvar".
 
-Para ver a lista alunos cadastrados, acesse a página index.php, se houver algum cadastro no banco de dados vai listar os alunos.
+Para ver a lista dos alunos cadastrados, acesse a página index.php, se houver algum cadastro no banco de dados vai listar os alunos.
 
 Para editar um aluno, clique no botão "Editar" na tabela em index.php ao lado do campo telefone. você será redirecionado para a página de cadastro.php com os campos preenchidos do formulário, com os dados do aluno para a edição.
 
