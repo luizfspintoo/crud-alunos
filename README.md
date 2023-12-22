@@ -77,3 +77,23 @@ Para excluir um aluno, clique no botão "Excluir" na tabela em index.php ao lado
 
 ## Acesso ao deploy do projeto: 🚀
 https://luizfelipe.online/
+
+## TO-DO
+
+### V2 - Refatorar e usar MVC
+- [x] Separar código em arquivos
+- [ ] Criar classes aplicando MVC
+- [x] Separar o front do backend
+- [x] Configurar autoload
+- [ ] Instalar getenv (carregar variáveis de ambiente)
+  - [ ] Configurar composer
+  - [ ] Instalar pacote
+- [x] Configurar roteamento
+  - [x] Criar .htaccess
+
+### V3 - Refatorar e usar Laravel
+- [ ] Configurar projeto
+- [ ] Configurar entidades
+- [ ] Configurar rotas
+- [ ] Configurar controllers
+- [ ] Configurar front-end (Blade)
